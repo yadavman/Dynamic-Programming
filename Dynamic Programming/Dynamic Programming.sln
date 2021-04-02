@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubSet Sum Count", "..\SubS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumSubSetSumDifference", "..\MinimumSubSetSumDifference\MinimumSubSetSumDifference.csproj", "{F02AF424-8A97-49D5-8226-085554FEBF78}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TargetSum", "..\TargetSum\TargetSum.csproj", "{4F5595A5-F6C8-48BB-B85F-7915850F024B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RodCuttingProblem", "..\RodCuttingProblem\RodCuttingProblem.csproj", "{E92C6C14-8A93-4A0F-9C1C-99E1B781DEF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{F02AF424-8A97-49D5-8226-085554FEBF78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F02AF424-8A97-49D5-8226-085554FEBF78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F02AF424-8A97-49D5-8226-085554FEBF78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F5595A5-F6C8-48BB-B85F-7915850F024B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F5595A5-F6C8-48BB-B85F-7915850F024B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F5595A5-F6C8-48BB-B85F-7915850F024B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F5595A5-F6C8-48BB-B85F-7915850F024B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E92C6C14-8A93-4A0F-9C1C-99E1B781DEF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E92C6C14-8A93-4A0F-9C1C-99E1B781DEF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E92C6C14-8A93-4A0F-9C1C-99E1B781DEF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E92C6C14-8A93-4A0F-9C1C-99E1B781DEF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subset Sum", "..\Subset Sum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubSet Sum Count", "..\SubSet Sum Count\SubSet Sum Count.csproj", "{B30EF307-05DC-4083-8581-F96AC608D97B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumSubSetSumDifference", "..\MinimumSubSetSumDifference\MinimumSubSetSumDifference.csproj", "{F02AF424-8A97-49D5-8226-085554FEBF78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B30EF307-05DC-4083-8581-F96AC608D97B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B30EF307-05DC-4083-8581-F96AC608D97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B30EF307-05DC-4083-8581-F96AC608D97B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F02AF424-8A97-49D5-8226-085554FEBF78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F02AF424-8A97-49D5-8226-085554FEBF78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F02AF424-8A97-49D5-8226-085554FEBF78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F02AF424-8A97-49D5-8226-085554FEBF78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

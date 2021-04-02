@@ -4,3 +4,11 @@
 
 /Dynamic Programming
 *.sqlite
+/SubSet Sum Count/obj/Debug/netcoreapp3.1
+/0-1 Knapsack
+/Subset Sum/bin/Debug/netcoreapp3.1
+/Subset Sum/obj/Debug/netcoreapp3.1
+/Subset Sum/obj
+/SubSet Sum Count
+/MinimumSubSetSumDifference/bin/Debug/netcoreapp3.1
+/MinimumSubSetSumDifference/obj

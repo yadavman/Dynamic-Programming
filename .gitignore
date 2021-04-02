@@ -1,0 +1,27 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Dynamic Programming
+*.sqlite
+/SubSet Sum Count/obj/Debug/netcoreapp3.1
+/0-1 Knapsack
+/Subset Sum/bin/Debug/netcoreapp3.1
+/Subset Sum/obj/Debug/netcoreapp3.1
+/Subset Sum/obj
+/SubSet Sum Count
+/MinimumSubSetSumDifference/bin/Debug/netcoreapp3.1
+/MinimumSubSetSumDifference/obj
+/TargetSum/obj
+/RodCuttingProblem/bin/Debug/netcoreapp3.1
+/RodCuttingProblem/obj/Debug/netcoreapp3.1
+/RodCuttingProblem/obj
+/CoinChangeProblem/obj/Debug/netcoreapp3.1
+/CoinChangeProblem/bin/Debug/netcoreapp3.1
+/CoinChangeProblem/obj
+/Longest Common Subsequence/bin/Debug/netcoreapp3.1
+/Longest Common Subsequence/obj/Debug/netcoreapp3.1
+/Longest Common Subsequence/obj
+/Longest Common Substring/obj/Debug/netcoreapp3.1
+/Longest Common Substring/obj
+/Longest Common Substring/bin/Debug/netcoreapp3.1

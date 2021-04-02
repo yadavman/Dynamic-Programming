@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RodCuttingProblem", "..\Rod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinChangeProblem", "..\CoinChangeProblem\CoinChangeProblem.csproj", "{19E7D68E-632A-4415-BCB2-95C2BCEB7B7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Common Subsequence", "..\Longest Common Subsequence\Longest Common Subsequence.csproj", "{BD95A6B6-9A45-4808-AB82-F26D0FBC97EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{19E7D68E-632A-4415-BCB2-95C2BCEB7B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19E7D68E-632A-4415-BCB2-95C2BCEB7B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19E7D68E-632A-4415-BCB2-95C2BCEB7B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD95A6B6-9A45-4808-AB82-F26D0FBC97EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD95A6B6-9A45-4808-AB82-F26D0FBC97EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD95A6B6-9A45-4808-AB82-F26D0FBC97EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD95A6B6-9A45-4808-AB82-F26D0FBC97EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

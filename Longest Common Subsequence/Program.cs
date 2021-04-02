@@ -19,6 +19,9 @@ namespace Longest_Common_Subsequence
 
             Console.WriteLine("LCS with bottom up way is {0}", sequenceDP.GetLongestCommonSubsequenceCount(x, y, LCSMode.BottomUp));
 
+            //Doing LCS 1 way only
+
+            Console.WriteLine("LCS  is {0}", sequenceDP.GetLCS(x, y));
             Console.Read();
         }
     }

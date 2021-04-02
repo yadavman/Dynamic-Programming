@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinChangeProblem", "..\Coi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Common Subsequence", "..\Longest Common Subsequence\Longest Common Subsequence.csproj", "{BD95A6B6-9A45-4808-AB82-F26D0FBC97EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Common Substring", "..\Longest Common Substring\Longest Common Substring.csproj", "{9A8120EE-5C4D-4F66-A5D2-5CFCE172B921}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{BD95A6B6-9A45-4808-AB82-F26D0FBC97EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD95A6B6-9A45-4808-AB82-F26D0FBC97EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD95A6B6-9A45-4808-AB82-F26D0FBC97EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A8120EE-5C4D-4F66-A5D2-5CFCE172B921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A8120EE-5C4D-4F66-A5D2-5CFCE172B921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A8120EE-5C4D-4F66-A5D2-5CFCE172B921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A8120EE-5C4D-4F66-A5D2-5CFCE172B921}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

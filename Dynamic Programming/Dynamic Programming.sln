@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Common Substring", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortestCommonSuperSequence", "..\ShortestCommonSuperSequence\ShortestCommonSuperSequence.csproj", "{4AB24448-9474-4042-AC65-70216DEDFAD5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Palindromic Subsequence", "..\Longest Palindromic Subsequence\Longest Palindromic Subsequence.csproj", "{57EB0CC0-3E55-4CFC-81AE-F464AAD5050C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{4AB24448-9474-4042-AC65-70216DEDFAD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AB24448-9474-4042-AC65-70216DEDFAD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AB24448-9474-4042-AC65-70216DEDFAD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57EB0CC0-3E55-4CFC-81AE-F464AAD5050C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57EB0CC0-3E55-4CFC-81AE-F464AAD5050C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57EB0CC0-3E55-4CFC-81AE-F464AAD5050C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57EB0CC0-3E55-4CFC-81AE-F464AAD5050C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
